@@ -1,7 +1,7 @@
-import App from './App';
-import Home from './components/Home';
-import Shop from './components/Shop';
-import ErrorPage from './components/ErrorPage';
+import App from './App.jsx';
+import Home from './components/Home.jsx';
+import Shop from './components/Shop.jsx';
+import ErrorPage from './components/ErrorPage.jsx';
 
 const routes = [
   {
